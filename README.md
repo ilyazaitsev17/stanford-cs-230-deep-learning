@@ -1,3 +1,22 @@
+## Русский перевод
+
+Здесь публикуются переводы шпаргалок курса Stanford CS 230 (Deep Learning) на русский язык.
+
+### Доступные переводы
+
+- [Recurrent Neural Networks](./ru/cs-230-recurrent-neural-networks.md) — рекуррентные нейронные сети
+
+### В работе
+
+- Convolutional Neural Networks
+- Deep Learning Tips and Tricks
+
+Переводчик: Виктор Зайцев, канал «ИИ на практике»
+
+Оригинальные авторы: Afshine Amidi (MIT) и Shervine Amidi (Stanford).
+
+---
+
 # Deep Learning cheatsheets for Stanford's CS 230
 
 Available in [English](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/en) -  [فارسی](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fa) -  [Français](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fr) - [日本語](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/ja) - [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks) -  [Türkçe](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/tr) - [Tiếng Việt](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/vi)
