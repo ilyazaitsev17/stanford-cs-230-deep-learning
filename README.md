@@ -5,10 +5,10 @@
 ### Доступные переводы
 
 - [Recurrent Neural Networks](./ru/cs-230-recurrent-neural-networks.md) — рекуррентные нейронные сети
+- [Convolutional Neural Networks](./ru/cs-230-convolutional-neural-networks.md) — свёрточные нейронные сети
 
 ### В работе
 
-- Convolutional Neural Networks
 - Deep Learning Tips and Tricks
 
 Переводчик: Виктор Зайцев, канал «ИИ на практике»
